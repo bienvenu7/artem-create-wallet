@@ -1,0 +1,30 @@
+[
+  {
+    "mnemonic": {
+      "phrase": "mule priority piece space phrase noodle cannon seed hurdle glad mobile roof",
+      "password": "",
+      "wordlist": {
+        "locale": "en"
+      },
+      "entropy": "0x91555e91e82a3d2c085e176f8c5239dd"
+    },
+    "privateKey": "0x24f98863d5399c35a584727a0d1ff55aa46edc5e656638ca3fee8fe2f3da4122",
+    "publicKey": "0x04e7c50dafb8af92bd93910507711e24cc450e54bf1b9baafffff0f8c97deb9753f41671d9c0870465e8c22f43aad7f9e5a2f9af1e67fa1d1dd5baac3cfd933f49",
+    "address": "THU5vxeePzq9SJ5xnJPABXCMg5nUWcf8sX",
+    "path": "m/44'/195'/0'/0/0"
+  },
+  {
+    "mnemonic": {
+      "phrase": "predict shed brain hollow tired side trigger cabbage arena involve sell cradle",
+      "password": "",
+      "wordlist": {
+        "locale": "en"
+      },
+      "entropy": "0xa9b8a86bb67e2b8ffa20fd0b6ec70d98"
+    },
+    "privateKey": "0x54b54ccfe267982247ce97a867797ddb6df98ed2444e661593139d63318423b7",
+    "publicKey": "0x04fd6e1c33015c8229e3e3e47279ca31c4aaff09e4e8f440bc1e76ea2fb1c995c16456060c423befec57e53389d0a1bdd53617efe8ab090a06c89a97eb488af283",
+    "address": "TGrcdkRPDEECbRCW34cSck8hdjexLbRkGj",
+    "path": "m/44'/195'/0'/0/0"
+  }
+]
